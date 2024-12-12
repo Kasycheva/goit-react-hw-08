@@ -1,0 +1,21 @@
+.searchWrap {
+  margin-top: 30px; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.searchLabel {
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.searchInput {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 300px;
+  max-width: 100%; 
+}
